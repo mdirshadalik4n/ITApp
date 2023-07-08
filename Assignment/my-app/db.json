@@ -1,0 +1,319 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "Status": "Implemeted",
+      "ServiceType": "Request for server access",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 2,
+      "Status": "Closed",
+      "ServiceType": "Request for asset",
+      "ServiceCategory": "Laptop",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 3,
+      "Status": "closed",
+      "ServiceType": "Request for email not working",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 4,
+      "Status": "Implemeted",
+      "ServiceType": "Request for asset",
+      "ServiceCategory": "Laptop",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 5,
+      "Status": "closed",
+      "ServiceType": "Request for email not working",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 6,
+      "Status": "closed",
+      "ServiceType": "Request for server access",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 7,
+      "Status": "Implemeted",
+      "ServiceType": "Request for asset",
+      "ServiceCategory": "pair cable",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 8,
+      "Status": "pending",
+      "ServiceType": "Request for asset",
+      "ServiceCategory": "Laptop",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 9,
+      "Status": "Implemeted",
+      "ServiceType": "Request for email not working",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 10,
+      "Status": "pending",
+      "ServiceType": "Request for asset",
+      "ServiceCategory": "pair cable",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 11,
+      "Status": "Implemeted",
+      "ServiceType": "Request for server access",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 12,
+      "Status": "Closed",
+      "ServiceType": "Request for server access",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 13,
+      "Status": "Implemeted",
+      "ServiceType": "Request for asset",
+      "ServiceCategory": "Com Cable",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 14,
+      "Status": "pending",
+      "ServiceType": "Request for server access",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 15,
+      "Status": "Implemeted",
+      "ServiceType": "Request for asset",
+      "ServiceCategory": "Laptop",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 16,
+      "Status": "pending",
+      "ServiceType": "Request for server access",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 17,
+      "Status": "pending",
+      "ServiceType": "Request for asset",
+      "ServiceCategory": "pair cable",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 18,
+      "Status": "pending",
+      "ServiceType": "Request for server access",
+      "ServiceCategory": "Server",
+      "Description": "test212",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "id": 19,
+      "Status": "pending",
+      "ServiceType": "Request for server access",
+      "ServiceCategory": "Server",
+      "Description": "men's clothing",
+      "Location": "hyderabad",
+      "AssignedTo": "irshad Ali",
+      "CreatedOn": "12/09/2023"
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Request for asset",
+      "Location": "Bangalore",
+      "Description": "test56",
+      "id": 26
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Request for asset",
+      "Location": "Pune",
+      "Description": "test5",
+      "id": 27
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "4 pair cable",
+      "Location": "Bangalore",
+      "Description": "test22",
+      "id": 56
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Payroll issues",
+      "Location": "Pune",
+      "Description": "test33",
+      "id": 57
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Hardware issue",
+      "Location": "Hyderabad",
+      "Description": "test33",
+      "id": 58
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "4 pair cable",
+      "Location": "Bangalore",
+      "Description": "test33",
+      "id": 59
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Payroll issues",
+      "Location": "Pune",
+      "Description": "test2",
+      "id": 60
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Payroll issues",
+      "Location": "Bangalore",
+      "Description": "test2",
+      "id": 61
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Hardware issue",
+      "Location": "Hyderabad",
+      "Description": "test34",
+      "id": 62
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Hardware issue",
+      "Location": "Hyderabad",
+      "Description": "test34",
+      "id": 63
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Payroll issues",
+      "Location": "Bangalore",
+      "Description": "test23",
+      "id": 64
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Hardware issue",
+      "Location": "Bangalore",
+      "Description": "replace the assest",
+      "id": 65
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "4 pair cable",
+      "Location": "Bangalore",
+      "Description": "please provide",
+      "id": 66
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "4 pair cable",
+      "Location": "Bangalore",
+      "Description": "please provide",
+      "id": 67
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Request for Server Access",
+      "Location": "Bangalore",
+      "Description": "test22",
+      "id": 68
+    },
+    {
+      "Status": "pending",
+      "ServiceType": "Payroll issues",
+      "Location": "Mumbai",
+      "Description": "please provide the solution",
+      "id": 69
+    }
+  ],
+  "User": [
+    {
+      "id": "admin",
+      "name": "John Doe",
+      "password": "admin123",
+      "email": "JohnDoe@gmail.com",
+      "phone": "967688582",
+      "country": "USA",
+      "Address": "san antrino texas us",
+      "gender": "male"
+    }
+   
+  ]
+}
