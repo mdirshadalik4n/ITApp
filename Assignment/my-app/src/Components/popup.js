@@ -45,7 +45,7 @@ const PopupModal = ({ fetchUsers }) => {
   return (
     <div>
       <button type="button" className="btn btn-primary" onClick={toggleModal}>
-        Open Modal
+        Raise The Ticket
       </button>
       <Modal isOpen={isOpen} toggle={toggleModal} size="lg" centered>
         <ModalBody style={{ maxHeight: '400px', overflowY: 'auto' }}>
