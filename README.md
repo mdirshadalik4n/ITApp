@@ -8,7 +8,10 @@
 
 ##Login Credentials
 
-   username: admin
+   username: admin <b/>
    password: admin123
+
+   # note: 
+    Make sure db.json should be open on port number: 3000
 
 
